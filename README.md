@@ -16,6 +16,7 @@ This release is a **structural field briefing**. Full manuscript and codebase ex
 
 [**Recursive Self-Awareness — Executive Dossier (Notion)**](https://www.notion.so/Conscious-Intelligence-System-CIS-Recursive-Self-Awareness-Dossier-218fb73eb289809ab9d3c41eee8fd28a?pvs=21)
 
+https://github.com/Sundazee/Recursive-Self-Awareness
 ---
 Contact
 Jan A. Ritzl
