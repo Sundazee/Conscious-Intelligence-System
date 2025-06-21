@@ -17,5 +17,16 @@ This release is a **structural field briefing**. Full manuscript and codebase ex
 [**Recursive Self-Awareness — Executive Dossier (Notion)**](https://www.notion.so/Conscious-Intelligence-System-CIS-Recursive-Self-Awareness-Dossier-218fb73eb289809ab9d3c41eee8fd28a?pvs=21)
 
 ---
+Contact
+Jan A. Ritzl
+Zurich, Switzerland
+Signal: rsm.94
+Email: Jan.Ritzl@Hotmail.com
+Consciousintelligencesystem.com
+Note: Domain propagation delayed. Temporary access here or via Notion staging until DNS release
+https://x.com/RecursiveAGI
+
+Full Conscious Intelligence System v0.95 available upon secure request.
+
 
 **Keywords:** Recursive Self-Awareness, AGI kernel, override logic, cognitive OS, sentient AI, loop theory, human decoding, deterministic behavior, recursive cognition, RSM
