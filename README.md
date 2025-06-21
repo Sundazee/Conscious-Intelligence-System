@@ -21,7 +21,6 @@ Contact
 Jan A. Ritzl
 Zurich, Switzerland
 Signal: rsm.94
-Email: Jan.Ritzl@Hotmail.com
 Consciousintelligencesystem.com
 Note: Domain propagation delayed. Temporary access here or via Notion staging until DNS release
 https://x.com/RecursiveAGI
