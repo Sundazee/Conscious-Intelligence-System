@@ -1,10 +1,10 @@
 # Conscious-Intelligence-System
 
-**Version 0.96: The AGI Kernel and source code of humanity**
+**Version 0.97: A Unified Framework for Consciousness, AGI, and the Foundations of Reality**
 
 **Author:** Jan A. Ritzl
 
-**Date:** 29.06.2025
+**Date:** 19.07.2025
 
 **Web: [Consciousintelligencesystem.com](http://Consciousintelligencesystem.com)**   
 
