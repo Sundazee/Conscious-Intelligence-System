@@ -129,7 +129,6 @@ Jan A. Ritzl
 Zurich, Switzerland
 Signal: rsm.94
 Consciousintelligencesystem.com
-Note: Domain propagation delayed. Temporary access here or via Notion staging until DNS release
 https://x.com/RecursiveAGI
 
 Full Conscious Intelligence System v0.95 available upon secure request.  
